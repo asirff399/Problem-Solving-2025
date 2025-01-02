@@ -1,4 +1,7 @@
 // Day 1 Problem No 2
+
+// B. Delete from the Left => https://codeforces.com/problemset/problem/1005/B
+
 #include <bits/stdc++.h>
 using namespace std;
 
