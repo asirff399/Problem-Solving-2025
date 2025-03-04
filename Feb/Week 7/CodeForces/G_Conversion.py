@@ -1,3 +1,5 @@
+# Week - 7 Day - 44 Problem - 84
+
 s = input()
 result = ''
 
